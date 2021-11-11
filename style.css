@@ -1,0 +1,54 @@
+body{
+    font-family: 'Rubik', sans-serif;
+    background-color: blanchedalmond;
+}
+
+.name{
+    border: 5px black;
+    padding: 12px;
+    margin: 0px 2px;
+    padding: 26px 14px;
+    color: black;
+    text-align: center;
+    background-color: burlywood;
+
+}
+
+table th,td{
+        border: 2px solid black;
+        margin-right: 10px;
+        padding: 4px;
+    
+    
+}
+ 
+a{
+    text-decoration: none;
+    color: chocolate;
+}
+
+a:visited{
+    color: purple;
+}
+
+a:hover{
+    color: red;
+}
+
+a:active{
+    color: yellow;
+}
+
+button{
+    border-radius: 47%;
+    color: bisque;
+    margin: 75px 16px;
+    padding: 14px;
+    background-color: black;
+}
+
+button:hover{
+    color:chocolate;
+    cursor: pointer;
+    
+}
